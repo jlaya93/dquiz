@@ -1,0 +1,31 @@
+body{
+  background-color: #a1cae2;
+  text-align: center;
+}
+
+h3, h1{
+  text-align: center;
+  padding-bottom:15px; color: #383e56;
+}
+
+h1{
+  padding-top: 15px;
+}
+
+p{
+  display: inline-block; padding-right: 10px;
+}
+
+.btn-dark{
+  margin-left: 15px; margin-top: 15px;
+}
+
+.first{
+  padding-left: 5%;
+  text-align: left;
+}
+
+.second{
+  padding-left: 5%; padding-top : 10px;
+  text-align: left;
+}
